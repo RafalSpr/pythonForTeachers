@@ -1,1 +1,1 @@
-<h1>Zbiór zadań z programowania w pythonie dla nauczycieli./h1>
+<h1>Zbiór zadań z programowania w pythonie dla nauczycieli.</h1>
