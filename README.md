@@ -1,5 +1,4 @@
 <h1>Kurs podstaw programowania w języku Python dla nauczycieli</h1>
-<p>Kurs zawiera omówienie języka Python oraz propozycję zadań do ćwiczeń.</p>
 <h2>Godziny i tematy:</h2>
 <pre>
 1.	Podstawowe informacje o języku Python. Instalacja i konfiguracja środowiska programistycznego. 
