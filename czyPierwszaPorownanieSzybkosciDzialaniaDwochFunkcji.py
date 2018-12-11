@@ -7,23 +7,23 @@ from datetime import *
 
 def pierwszaSzybciej(a):
     '''
-    Funkcja sprawdza, czy liczba jest pierwsza do pierwiastka z a
+    Funkcja sprawdza, czy liczba jest pierwsza przeglądając liczby od 2 do pierwiastka z a
     '''
     i=2
-    while (i*i<=a):
-        if (a %i==0):
+    while (i*i<=a): # lub alternatywnie i<=sqrt(a)
+        if (a % i==0): #znalazłem dzielnik, liczba nie jest pierwsza
             return False
         i = i + 1
-    return True
+    return True #skoro liczba nie ma dzielników właściwych, więc musi być pierwsza
 
 def pierwszaWolniej(a):
     '''
     Metoda brute force, czyli przeglądam wszystkie liczby od 2 do a-1
     '''
     for i in range(2,n):
-        if n % i ==0:
+        if n % i ==0: #znalazłem dzielnik, liczba nie jest pierwsza
             return False
-    return True
+    return True #skoro liczba nie ma dzielników właściwych, więc musi być pierwsza
     
 n = 179424691
 
