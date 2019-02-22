@@ -1,3 +1,6 @@
+<h1>Uwagi dotyczące spakowanych plików:</h1>
+<p>Należy je ściągnąć na swój dysk i rozpakować programem typu WinZip lub używając choćby Total Commandera, gdyż system Windows nie wspiera zaszyfrowanych plików. Hasło do plików znajduje się na ostatniej stronie z materiałami
+</p>
 <h1>Kurs podstaw programowania w języku Python dla nauczycieli</h1>
 <h2>Godziny i tematy:</h2>
 <pre>
